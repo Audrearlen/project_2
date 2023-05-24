@@ -4,3 +4,4 @@ ls -lrt
 ls -a
 pwd
 cp f1 f2
+cp -r dir1 dir2

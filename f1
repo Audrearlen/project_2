@@ -4,3 +4,4 @@ ls -lrt
 ls -a
 pwd
 cp f1 f2
+cp -r d1 d2
