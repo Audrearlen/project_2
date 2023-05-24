@@ -5,3 +5,4 @@ ls -a
 pwd
 cp f1 f2
 cp -r d1 d2
+mv f1 f2
