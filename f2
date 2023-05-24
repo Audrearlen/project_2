@@ -3,4 +3,4 @@ ls -lt
 ls -lrt
 ls -a
 pwd
-
+cp f1 f2
