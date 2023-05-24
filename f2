@@ -1,0 +1,6 @@
+ls
+ls -lt
+ls -lrt
+ls -a
+pwd
+
