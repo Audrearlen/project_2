@@ -9,3 +9,13 @@ mv f1 f2
 touch
 vi
 cat
+mkdir
+cd ..
+cd dir1
+esc:wq
+esc:wq!
+esc:q
+esc:q1
+esc:set nu
+esc:set nonu
+esc:dd
