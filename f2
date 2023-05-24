@@ -7,3 +7,13 @@ cp f1 f2
 cp -r dir1 dir2
 mv f1 f2
 touch vi cat
+cd ..
+cd dir1
+mkdir
+esc:wq
+esc:wq!
+esc:q
+esc:q!
+esc:set nu
+esc:set nonu
+esc:dd
