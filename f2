@@ -18,3 +18,4 @@ esc:q!
 esc:set nu
 esc:set nonu
 esc:dd
+esc: wq!
