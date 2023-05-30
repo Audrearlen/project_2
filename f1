@@ -21,3 +21,4 @@ esc:set nu
 esc:set nonu
 esc:dd
 esc
+touch f4
